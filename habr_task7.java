@@ -1,3 +1,4 @@
+/*Дан массив целых чисел и ещё одно целое число. Удалите все вхождения этого числа из массива (пропусков быть не должно).*/
 public class habr_task7 {
     public static int[] removeElement(int[] nums, int val) {
         int count = 0;
